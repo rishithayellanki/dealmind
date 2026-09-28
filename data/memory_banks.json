@@ -1,0 +1,105 @@
+{
+  "scrapq": [
+    {
+      "id": "mem_1790589576413",
+      "content": "[Executive Sponsorship Meeting] it has been scheduled. for sponserships",
+      "metadata": {
+        "deal_id": "scrapq",
+        "call_type": "Executive Sponsorship Meeting",
+        "tags": [
+          "budget:approved"
+        ]
+      },
+      "timestamp": "2026-09-28 15:29:36"
+    }
+  ],
+  "apex-logistics": [
+    {
+      "id": "mem_1790591097016",
+      "content": "[Discovery Call (Call 1) - Date: 2026-09-02] Initial meeting with Sarah Jenkins (CFO) and Mike Ramirez (VP of Operations). Their legacy dispatch system causes 4-hour routing delays per day. CRITICAL OBJECTION: Sarah stated they have an ironclad budget freeze until Q4. She explicitly said: 'We cannot commit to upfront annual contracts right now, any deal requiring immediate cash outlay will be vetoed by the board.'",
+      "metadata": {
+        "deal_name": "Apex Logistics Solutions",
+        "deal_id": "apex-logistics",
+        "deal_value": "$65,000 ARR",
+        "call_type": "Discovery Call (Call 1)",
+        "date": "2026-09-02",
+        "tags": [
+          "objection:budget",
+          "stakeholder:cfo",
+          "pain:latency"
+        ]
+      },
+      "timestamp": "2026-09-28 15:54:57"
+    },
+    {
+      "id": "mem_1790591097017",
+      "content": "[Technical Evaluation (Call 2) - Date: 2026-09-14] Met Dave Miller (Lead Solutions Architect) and Engineering team. Their current stack runs on Amazon EKS (Kubernetes) and self-hosted PostgreSQL. Dave's major concern is proprietary vendor lock-in; he refuses black-box SaaS without open APIs. COMPETITOR ALERT: Dave disclosed that CloudX sent a $15,000 quote yesterday and offered free migration help. However, CloudX's API has rate-limiting issues Dave dislikes.",
+      "metadata": {
+        "deal_name": "Apex Logistics Solutions",
+        "deal_id": "apex-logistics",
+        "deal_value": "$65,000 ARR",
+        "call_type": "Technical Evaluation (Call 2)",
+        "date": "2026-09-14",
+        "tags": [
+          "competitor:cloudx",
+          "tech:kubernetes",
+          "objection:lock-in"
+        ]
+      },
+      "timestamp": "2026-09-28 15:54:57"
+    },
+    {
+      "id": "mem_1790591097018",
+      "content": "[Security & Architecture Review (Call 3) - Date: 2026-09-22] Compliance sync with Elena Rostova (Chief Information Security Officer). Security requirements: SOC-2 Type II certificate, encrypted backups, and SSO (Okta integration). Mike mentioned off the record that their team loves our workflow, but reminded us: 'Sarah will kill this deal next Monday unless we give them deferred Q4 billing and beat CloudX on migration.'",
+      "metadata": {
+        "deal_name": "Apex Logistics Solutions",
+        "deal_id": "apex-logistics",
+        "deal_value": "$65,000 ARR",
+        "call_type": "Security & Architecture Review (Call 3)",
+        "date": "2026-09-22",
+        "tags": [
+          "security:soc2",
+          "stakeholder:ciso",
+          "closing_factor:deferred_billing"
+        ]
+      },
+      "timestamp": "2026-09-28 15:54:57"
+    }
+  ],
+  "fintech-global": [
+    {
+      "id": "mem_1790591097019",
+      "content": "[Discovery (Call 1) - Date: 2026-09-05] Met with Alex Vance (Head of Payments). High chargeback rates on international card processing. Strict requirement: API response times must be strictly under 45ms. Alex got burned by their previous vendor whose service crashed during Black Friday.",
+      "metadata": {
+        "deal_name": "FinTech Global Payments",
+        "deal_id": "fintech-global",
+        "deal_value": "$120,000 ARR",
+        "call_type": "Discovery (Call 1)",
+        "date": "2026-09-05",
+        "tags": [
+          "latency:45ms",
+          "pain:chargebacks",
+          "risk:uptime"
+        ]
+      },
+      "timestamp": "2026-09-28 15:54:57"
+    },
+    {
+      "id": "mem_1790591097020",
+      "content": "[Competitive Bake-off (Call 2) - Date: 2026-09-18] Alex revealed they are actively testing Stripe Radar and DataVisor. DataVisor offered a 20% discount on transaction volume. Alex expressed frustration with DataVisor's false-positive rate blocking legitimate customers.",
+      "metadata": {
+        "deal_name": "FinTech Global Payments",
+        "deal_id": "fintech-global",
+        "deal_value": "$120,000 ARR",
+        "call_type": "Competitive Bake-off (Call 2)",
+        "date": "2026-09-18",
+        "tags": [
+          "competitor:datavisor",
+          "competitor:stripe",
+          "objection:false_positives"
+        ]
+      },
+      "timestamp": "2026-09-28 15:54:57"
+    }
+  ]
+}

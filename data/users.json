@@ -1,0 +1,38 @@
+{
+  "yellanki.rishitha12@gmail.com": {
+    "email": "yellanki.rishitha12@gmail.com",
+    "name": "Rishitha Yellanki",
+    "role": "Lead Account Executive",
+    "org": "HackwithHyderabad 3.0 Finale Team",
+    "workspace": "Microsoft Hyderabad Enterprise Hub",
+    "memory_engine": "Local Disk JSON Engine (Active)",
+    "password": "12345678"
+  },
+  "judge.evaluator@microsoft.com": {
+    "email": "judge.evaluator@microsoft.com",
+    "name": "Judge Evaluator",
+    "role": "Chief Revenue Officer (CRO)",
+    "org": "HackwithHyderabad 3.0 Finale Team",
+    "workspace": "Microsoft Hyderabad Enterprise Hub",
+    "memory_engine": "Local Disk JSON Engine (Active)",
+    "password": "password123"
+  },
+  "rishithayellanki12@gmail.com": {
+    "email": "rishithayellanki12@gmail.com",
+    "name": "Rishithayellanki12",
+    "role": "Lead Account Executive",
+    "org": "HackwithHyderabad 3.0 Finale Team",
+    "workspace": "Microsoft Hyderabad Enterprise Hub",
+    "memory_engine": "Local Disk JSON Engine (Active)",
+    "password": "123456"
+  },
+  "yellanki@gmail.com": {
+    "email": "yellanki@gmail.com",
+    "name": "Yellanki",
+    "role": "Lead Account Executive",
+    "org": "HackwithHyderabad 3.0 Finale Team",
+    "workspace": "Microsoft Hyderabad Enterprise Hub",
+    "memory_engine": "Local Disk JSON Engine (Active)",
+    "password": "1230987"
+  }
+}

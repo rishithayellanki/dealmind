@@ -1,0 +1,7 @@
+# DealMind Dependencies
+# Note: Core DealMind server runs out-of-the-box on standard Python 3.9+ with zero required installs!
+# The packages below are optional enhancements for direct cloud client usage.
+hindsight-client>=0.1.0
+groq>=0.11.0
+python-dotenv>=1.0.0
+requests>=2.31.0
